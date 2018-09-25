@@ -12,10 +12,10 @@ node -v
 
 If your node version is version 5 or lower, you can [install `nvm`](https://github.com/creationix/nvm#install-script) to manage multiple versions of node.
 
-Clone the [`react-workshop`](https://github.com/benmvp/react-workshop) repo:
+Clone the [`react-workshop`](https://github.com/schneidenbach/react-workshop) repo:
 
 ```sh
-git clone https://github.com/benmvp/react-workshop.git
+git clone https://github.com/schneidenbach/react-workshop.git
 ```
 
 Change into the `react-workshop` directory:
