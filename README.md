@@ -1,18 +1,30 @@
-# React Ecosystem FUNdamentals Workshops by Ben Ilegbodu
-
-[![Maintenance Status](https://img.shields.io/badge/status-maintained-brightgreen.svg)](https://github.com/benmvp/react-workshop/pulse)
-[![Build Status](https://travis-ci.org/benmvp/react-workshop.svg?branch=master)](https://travis-ci.org/benmvp/react-workshop)
-[![license](https://img.shields.io/github/license/benmvp/react-workshop.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-[![Watch on GitHub](https://img.shields.io/github/watchers/benmvp/react-workshop.svg?style=social)](https://github.com/benmvp/react-workshop/watchers)
-[![Star on GitHub](https://img.shields.io/github/stars/benmvp/react-workshop.svg?style=social)](https://github.com/benmvp/react-workshop/stargazers)
-[![Tweet](https://img.shields.io/twitter/url/https/github.com/benmvp/react-workshop.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20React%20Fundamentals%20Workshop%20by%20%40benmvp!%0A%0Ahttps%3A%2F%2Fgithub.com%2Fbenmvp%2Freact-workshop)
+# Getting Started with React and ES6 - Workshop by Spencer Schneidenbach (originally by Ben Ilegbodu)
 
 Step-by-step workshops related to building React applications, all while learning fundamentals of the React ecosystem. Best if accompanied with live facilitation. 🙂
 
+## Schedule
+
+Subject | Time | End Time | Stuff
+------- | ---- | -------- | -------
+**Intro** | 15 minutes | 9:15 AM | Discussion on the big question - why React? 
+**JSX** | 45 minutes | 10:00 AM | An overview of one of the best parts of React - JSX (lab 1)
+**Intro to components** | 30 minutes | 10:30 AM | Components overview (lab 2)
+Break | 15 minutes | 10:45 AM
+**Intro to components** | 15 minutes | 11:00 AM | Components overview (finish Lab 2)
+**Multi-components** | 30 minutes | 11:30 AM | Multi components overview
+**Component state** | 30 minutes | 12:00 PM | Using component state (lab 4 phases 1/2)
+Lunch | 60 minutes | 1:00 PM
+**Component state** | 30 minutes | 1:30 PM | Using component state (finish lab 4 phases 1/2, talk about Redux)
+**Event handling** | 45 minutes | 2:15 PM | Event handling (lab 4 phases 3/4)
+Break | 15 minutes | 2:30 PM
+**Forms** | 1 hour | 3:30 | Creating forms in React (labs 5/6/7)
+**APIs** | 30 minutes | 4:00 PM | Consuming APIs (lab 8)
+Break | 15 minutes | 4:15 PM
+**Routing and best practices** | 45 minutes | 5:00 PM
+
 ## Many thanks!
 
+- Obviously [Ben Ilegbodu](https://github.com/benmvp) who created the original workshop.
 - [Create React App](https://github.com/facebookincubator/create-react-app) - makes it painless to spin up a React environment
 - [React Docs](http://facebook.github.io/react) - lots of content has been borrowed from here
 - [Vincent Budrovich](https://github.com/vwb) for his Redux tutorial contributions
