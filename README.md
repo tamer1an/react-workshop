@@ -10,7 +10,7 @@ Subject | Time | End Time | Stuff
 **JSX** | 30 minutes | 9:45 AM | An overview of one of the best parts of React - JSX (lab 1)
 **Intro to components** | 45 minutes | 10:30 AM | Components overview (lab 2)
 Break | 15 minutes | 10:45 AM
-**Multi-components** | 30 minutes | 11:30 AM | Multi components overview
+**Multi-components** | 30 minutes | 11:30 AM | Multi components overview (lab 3)
 **Component state** | 30 minutes | 12:00 PM | Using component state (lab 4 phases 1/2)
 Lunch | 60 minutes | 1:00 PM
 **Component state** | 30 minutes | 1:30 PM | Using component state (finish lab 4 phases 1/2, talk about Redux)
