@@ -52,7 +52,7 @@ class Test extends React.Component
 
 ---
 
-# props
+# `props`
 
 ```jsx
 class AppComponent extends React.Component
@@ -69,7 +69,7 @@ class AppComponent extends React.Component
 
 ---
 
-# state
+# `state`
 ```jsx
 class Test extends React.Component
 {
@@ -92,7 +92,7 @@ class Test extends React.Component
 
 ---
 
-# Children
+# `children`
 
 ```jsx
 class Test extends React.Component
@@ -120,7 +120,7 @@ class AppComponent extends React.Component
 
 ---
 
-# Functional components
+### Functional components
 
 ```jsx
 class Test extends React.Component
@@ -139,7 +139,7 @@ const Test = (props) => <div>{props.firstName}</div>
 
 ---
 
-# Functional components
+### Functional components
 
 ```jsx
 class Test extends React.Component
@@ -159,7 +159,7 @@ const Test = ({firstName}) => <div>{firstName}</div>
 
 ---
 
-# Functional components
+### Functional components
 
 ```jsx
 const Test = (props) => <div>{props.firstName}</div>

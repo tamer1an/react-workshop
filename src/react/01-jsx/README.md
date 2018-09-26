@@ -10,7 +10,7 @@ If you run into trouble with the [tasks](#tasks) or [exercises](#exercises), you
 
 ## Jump Around
 
-[Concepts](#concepts) | [Tasks](#tasks) | [Resources](#resources)
+[Concepts](#concepts) | [Tasks](#tasks) | [Resources](#resources) | [Slides](https://gitpitch.com/schneidenbach/react-workshop?p=src/react/01-jsx)
 
 ## Concepts
 

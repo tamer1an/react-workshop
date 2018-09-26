@@ -32,6 +32,18 @@ class Test extends React.Component
 
 ---
 
+```jsx
+function helloWorld() {
+    return React.createElement('div', null, 'Hello world);
+}
+
+function helloWorld() {
+    return <div>Hello world!</div>;
+}
+```
+
+---
+
 # History
 
 ---

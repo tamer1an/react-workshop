@@ -6,7 +6,7 @@ As always, if you run into trouble with the [tasks](#tasks) or [exercises](#exer
 
 ## Jump Around
 
-[Concepts](#concepts) | [Restart Setup](#restart-setup) | [Tasks](#tasks) | [Exercises](#exercises) | [Resources](#resources)
+[Concepts](#concepts) | [Restart Setup](#restart-setup) | [Tasks](#tasks) | [Exercises](#exercises) | [Resources](#resources) | [Slides](https://gitpitch.com/schneidenbach/react-workshop?p=src/react/05-email-form)
 
 ## Concepts
 
