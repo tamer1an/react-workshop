@@ -34,7 +34,7 @@ class Test extends React.Component
 
 ```jsx
 function helloWorld() {
-    return React.createElement('div', null, 'Hello world);
+    return React.createElement('div', null, 'Hello world!');
 }
 
 function helloWorld() {
@@ -49,6 +49,7 @@ function helloWorld() {
 ---
 
 # Why?
+Isn't HTML and JavaScript together bad?
 
 ---
 
